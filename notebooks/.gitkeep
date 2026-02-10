@@ -82,7 +82,7 @@
           "output_type": "stream",
           "name": "stdout",
           "text": [
-            "Mounted at /content/drive\n"
+            "Mounted at nnnnnnnnnnnnnnnnn"
           ]
         }
       ]
@@ -93,10 +93,10 @@
         "# =========================\n",
         "# CONFIG - AJUSTE AQUI\n",
         "# =========================\n",
-        "# Exemplo: \"/content/drive/MyDrive/Rotary Analytics\"\n",
+        "# Exemplo: \"yyyyyyyyyyyyy"\n",
         "\n",
-        "MUNICIPIOS_XLSX = \"/content/drive/MyDrive/Rotary Analytics/municipios_distritos_v2.xlsx\"\n",
-        "ROTARY_CLUBS_CSV = \"/content/drive/MyDrive/Rotary Analytics/xxxxxxxxxx\"\n"
+        "MUNICIPIOS_XLSX = \"zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\"\n",
+        "ROTARY_CLUBS_CSV = \"hhhhhhhhhhhhhhhhhhhh/xxxxxxxxxx\"\n"
       ],
       "metadata": {
         "id": "c3uainbANUM5"
@@ -107,8 +107,8 @@
     {
       "cell_type": "code",
       "source": [
-        "OUT_DATASET_XLSX = \"/content/drive/MyDrive/Rotary Analytics/rotary_clubs_with_municipio_pop_v4.xlsx\"\n",
-        "OUT_EXCEPTIONS_XLSX = \"/content/drive/MyDrive/Rotary Analytics/join_exceptions_missing_population_v4.xlsx\""
+        "OUT_DATASET_XLSX = \"uuuuuuuuuuuuuuuu"\n",
+        "OUT_EXCEPTIONS_XLSX = \"vvvvvvvvvvvvvvvvvvvvvvvvvvvvv\""
       ],
       "metadata": {
         "id": "ulMnyau0PHta"
