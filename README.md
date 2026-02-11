@@ -53,7 +53,8 @@ Within each district, we prioritized **Top 10 zero-club municipalities by popula
   - D4440: `pdfs/D4440_zero_club_top10.pdf`
 
 - Monitoring template (xlsx) — TBD
-- Data pipeline notebook/script — TBD
+- Data pipeline notebook/script:
+  - [Script_Expansão_Rotary](notebooks/V5_Script_Expansão_Rotary.ipynb)
 
 
 ## Notes on data privacy
