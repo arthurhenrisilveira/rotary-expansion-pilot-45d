@@ -46,8 +46,12 @@ Within each district, we prioritized **Top 10 zero-club municipalities by popula
 - # new members added (when applicable)
 
 ## Artifacts (in progress)
-- Power BI screenshots (district overview + top zero-club cities per pilot district) — TBD
-- Pilot deck (PDF) — TBD
+- Brazil overview (Power BI) (zero-club top cities): `pdfs/BR_overview_zero_club_top10.pdf`
+- Pilot districts (Power BI) (Top 10 zero-club by population):
+  - D4571: `pdfs/D4571_zero_club_top10.pdf`
+  - D4751: `pdfs/D4751_zero_club_top10.pdf`
+  - D4440: `pdfs/D4440_zero_club_top10.pdf`
+
 - Monitoring template (xlsx) — TBD
 - Data pipeline notebook/script — TBD
 
