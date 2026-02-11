@@ -25,7 +25,7 @@ Where should we prioritize expansion to maximize impact and execution feasibilit
 - **Clubs per 100k**
 - **Rotarians per 1k**
 
-## Pilot decision (45 days)
+## Pilot decision
 Pilot districts: **D4571, D4751, D4440**  
 Within each district, we prioritized **Top 10 zero-club municipalities by population** (anchor cities) to maximize near-term potential.
 
@@ -34,7 +34,7 @@ Within each district, we prioritized **Top 10 zero-club municipalities by popula
 - **Days 8–30 (Execution):** lead generation + meetings in target cities (pipeline build)
 - **Days 31–45 (Conversion):** confirm founders and advance to “club formation” pipeline (pre-club / charter readiness)
 
-## Measurement (growth-style)
+## Measurement
 **Leading indicators (weekly):**
 - # target cities activated
 - # leads generated
